@@ -31,7 +31,7 @@ UTS_Web_NIM_Nama/
 ## Screenshot Hasil
 
 ### Tampilan Desktop
-![Desktop](desktop.png)
+![Dekstop](dekstop.png)
 
 ### Tampilan Mobile
 ![Mobile](mobile.png)
