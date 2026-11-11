@@ -6,8 +6,13 @@
 - Dosen: Sufajar Butsianto, S.Kom, M.Kom
 
 ## Deskripsi
-Website profil pribadi (personal portfolio) yang responsif, dibuat dengan HTML5, CSS3, dan sedikit JavaScript untuk menu mobile dan validasi form.
+Website profil pribadi (personal portfolio) ini dibuat untuk memenuhi tugas ujian tengah semester (UTS)mata kuliah pemrograman web yang , website ini menampilkan profil pribadi, riayat pendidikan, pengalama kerja dan organisasi,keahlian, serta informasi kontak.
 
+## Teknologi
+- HTML5
+- dan sedikit javascript
+- CSS33
+- 
 ## Struktur Folder
 ```
 UTS_Web_NIM_Nama/
