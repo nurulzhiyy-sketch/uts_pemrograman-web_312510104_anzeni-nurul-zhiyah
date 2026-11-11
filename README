@@ -1,0 +1,36 @@
+# UTS Pemrograman Web – Profil Pribadi
+
+- Nama: [Anzeni nurul zhiyah]
+- NIM: [312510104]
+- Kelas: I243B
+- Dosen: Sufajar Butsianto, S.Kom, M.Kom
+
+## Deskripsi
+Website profil pribadi (personal portfolio) yang responsif, dibuat dengan HTML5, CSS3, dan sedikit JavaScript untuk menu mobile dan validasi form.
+
+## Struktur Folder
+```
+UTS_Web_NIM_Nama/
+├── index.html
+├── style.css
+├── images/   (profil.jpg, imagelain.jpg)
+├── media/    (audio.mp3, video.mp4)
+└── README.md
+```
+
+## Proses Pembuatan
+1. Membuat kerangka dokumen dengan elemen semantik: header, nav, main, section, article, aside, figure, footer.
+2. Menyusun header, navigasi (menu hamburger di layar kecil), dan hero panel.
+3. Mengisi biografi dan data diri (dl).
+4. Membuat tabel riwayat pendidikan dan pengalaman kerja (caption, thead, tbody, th scope).
+5. Menyusun riwayat keahlian dengan ul dan ol.
+6. Menambahkan elemen multimedia: video, audio, dan gambar.
+7. Membuat form kontak dengan validasi (nama min. 3 karakter, format email, pesan min. 10 karakter, penghitung karakter).
+8. Styling di style.css: CSS variables, flexbox, grid, media query, hover dan focus state.
+
+## Screenshot Hasil
+Tambahkan screenshot di bawah ini (simpan di folder images/ bila perlu):
+
+- Tampilan desktop: ![desktop](images/dekstop.png)
+- Tampilan mobile: ![mobile](images/mobile.png)
+- Validasi form: ![form](images/form.png)
